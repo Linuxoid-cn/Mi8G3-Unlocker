@@ -14,6 +14,9 @@
 * **Redmi 系列：**
     * **Redmi K70 Pro**
     * **Redmi K80**
+* **MIX 系列：**
+    * **Xiaomi MIX Fold 4**
+    * **Xiaomi MIX Flip**
 
 ---
 
