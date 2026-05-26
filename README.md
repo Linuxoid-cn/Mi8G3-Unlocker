@@ -62,4 +62,17 @@
 ### 💬 反馈与贡献
 
 如果你在上述 7 款机型上遇到“未识别设备”或脚本报错，请提交 **Issue** 并附上报错截图，我会针对该机型文件夹内的逻辑进行修复。
+## 👥 贡献者名单 (Contributors)
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/LittlenineEnnea">
+        <img src="https://github.com/LittlenineEnnea.png" width="100px;" alt="LittlenineEnnea"/><br />
+        <sub><b>Littlenine</b></sub>
+      </a><br />
+      💡 核心技术 / 💻 解锁boot.img
+    </td>
+  </tr>
+</table>
 
