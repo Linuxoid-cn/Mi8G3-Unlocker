@@ -1,5 +1,7 @@
 # Mi8G3-Unlocker 全自动版
-如果你需要帮助:https://t.me/kernix_dev
+**如果需要任何帮助，欢迎在这个频道中交流：**
+> **"If you need any help, feel free to reach out in this channel: https://t.me/kernix_dev"**
+
 ---
 目前已支持高版本无视补丁！！！
 ​本项目是专为搭载骁龙 8g3（Snapdragon 8 Gen3）平台的小米设备打造的 Windows 一键 BL 解锁辅助工具。通过 toUnlock.bat 脚本，实现 HyperOS 全补丁系统下的自动化解锁流程
