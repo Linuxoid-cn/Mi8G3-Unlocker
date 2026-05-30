@@ -1,6 +1,6 @@
 # Mi8G3-Unlocker 全自动版
 **如果需要任何帮助，欢迎在这个频道中交流：**
-> **"If you need any help, feel free to reach out in this channel: https://t.me/kernix_dev"**
+> **"If you need any help, feel free to reach out in this channel: https://t.me/Kernix_dev"**
 
 ---
 目前已支持高版本无视补丁！！！
